@@ -1,2 +1,2 @@
-# NumPy---Data-Science
+# NumPy - Data Science
 Scientific computing in Python
