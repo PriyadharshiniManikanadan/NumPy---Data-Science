@@ -89,7 +89,6 @@ print("modulus:",np.mod(x,3))
 print("=================================================================")
 
 #np.remainder()
-
 # Same result as modulus
 
 x= np.array([1,2,3,4,5,6,7,8,9,10,11])
