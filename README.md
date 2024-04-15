@@ -1,7 +1,7 @@
 # NumPy - Data Science
-Package for Scientific computing in Python
+### Package for Scientific computing in Python
 
-NumPy, which stands for Numerical Python, is a fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
+ NumPy, which stands for Numerical Python, is a fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
 
 ### Overview of NumPy's key features and functionalities
 
