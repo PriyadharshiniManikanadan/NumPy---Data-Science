@@ -8,7 +8,6 @@
 
 # np.genfromtxt() method to read file
 
-
 import numpy as np
 
 x = np.genfromtxt("C:\\Users\\priya\\Desktop\\DATA SCIENCE\\DATASET\\corr_data.csv", delimiter = ",")
@@ -37,7 +36,6 @@ print("="*100)
 # data = np.genfromtxt("Sleepdata.csv", dtype = 'str',delimiter=',')
 
 # (OR)
-
 
 """ *********   genfromtxt method has 25 parameters    **************"""
 
